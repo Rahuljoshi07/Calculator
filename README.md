@@ -27,7 +27,7 @@ To use the calculator:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Rahuljoshi07/JavaScript-Calculator.git
+    git clone https://github.com/Rahuljoshi07/Calculator.git
     ```
 
 2. Open the `index.html` file in a web browser.
